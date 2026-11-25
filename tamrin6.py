@@ -40,14 +40,15 @@
 #     elif i==8:
 #         break
 #     printi) 
-try:
-     num=int(input("num??"))
-     t=100/num
-     print(round(t,2) )
-except ValueError:
-    print("adad vared kond")
-except ZeroDivisionError:  
-    print("ghabel tnzimnist")
+# try:
+#      num=int(input("num??"))
+#      t=100/num
+#      print(round(t,2) )
+# except ValueError:
+#     print("adad vared kond")
+# except ZeroDivisionError:  
+#     print("ghabel tnzimnist")
+# colers=["red,blu,wite,blac,]
  
  
 
